@@ -45,7 +45,7 @@ export default defineConfig({
       {
         text: '开发指导',
         items: [
-          { text: '新增模型', link: '/api-examples' },
+          { text: '性能主题', link: '/development/performance' },
         ]
       },
       {
