@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Anti-Fake平台开发文档",
+  title: "Anti-Fake AI Project",
   description: "这里是Anti-Fake后端系统的开发文档",
   themeConfig: {
     lastUpdated: {
@@ -21,16 +21,18 @@ export default defineConfig({
       {
         text: '简介',
         items: [
-          { text: '系统介绍', link: '/quick_start/brief.md' },
+          { text: '产品介绍', link: '/quick_start/brief.md' },
+          // { text: '性能指标', link: '/quick_start/brief.md' },
           { text: '快速开始', link: '/api-examples' },
-          { text: '管理面板', link: '/api-examples' }
+          // { text: '管理面板', link: '/api-examples' }
         ]
       },
       {
-        text: '应用指导',
+        text: '支持软件',
         items: [
-          { text: '部署', link: '/api-examples' },
-          { text: '迁移', link: '/api-examples' },
+          { text: '总览', link: '/support/overview' },
+          { text: 'Stability AI', link: '/support/stabilityai' },
+          { text: '字节跳动', link: '/support/bytedance' },
         ]
       },
       {
@@ -40,6 +42,13 @@ export default defineConfig({
           { text: '网关', link: '/api-examples' },
           { text: '文件服务', link: '/architecture/file_service' },
           { text: '检测服务', link: '/api-examples' },
+        ]
+      },
+      {
+        text: '关于我们',
+        items: [
+          { text: '团队贡献', link: '/about/team' },
+          { text: '荣誉证书', link: '/about/about' },
         ]
       },
       {
