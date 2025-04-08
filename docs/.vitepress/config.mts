@@ -63,12 +63,15 @@ export default defineConfig({
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
+<<<<<<< HEAD
       },
       {
         text: '常见问题',
         items: [
           { text: 'FAQ', link: '/faq/faq' }
         ]
+=======
+>>>>>>> 4baf6650ab55f33319efc5e3605185d333339e61
       }
 
     ],
