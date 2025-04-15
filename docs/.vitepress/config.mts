@@ -36,6 +36,12 @@ export default defineConfig({
         ]
       },
       {
+        text: '接口文档',
+        items: [
+          { text: '检测接口', link: '/api_reference/detection.md' },
+        ]
+      },
+      {
         text: '系统架构',
         items: [
           { text: '总体架构', link: '/api-examples' },
