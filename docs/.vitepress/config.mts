@@ -33,6 +33,7 @@ export default defineConfig({
           { text: '总览', link: '/support/overview' },
           { text: 'Stability AI', link: '/support/stabilityai' },
           { text: '字节跳动', link: '/support/bytedance' },
+          { text: '百度', link: '/support/baidu' },
         ]
       },
       {
