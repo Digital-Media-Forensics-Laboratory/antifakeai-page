@@ -88,9 +88,9 @@ title: 百度
 
 ## 🔗 相关资源
 
-- **文档主页**：[Anti-Fake AI 产品介绍](./index.md)
-- **支持模型详情**：[支持模型列表](./model-support.md)
-- **技术白皮书下载**：[下载](https://yourdomain.com/whitepaper.pdf)
+- **文档主页**：[Anti-Fake AI 产品介绍](../quick_start/brief.md)
+- **支持模型详情**：[支持模型列表](./overview.md)
+- **技术白皮书**：[下载 PDF](https://yourdomain.com/whitepaper.pdf)
 
 ---
 

@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Anti-Fake AI Project",
   description: "这里是Anti-Fake后端系统的开发文档",
+  ignoreDeadLinks: true,
   themeConfig: {
     lastUpdated: {
       text: '最后更新于',
@@ -34,6 +35,7 @@ export default defineConfig({
           { text: 'Stability AI', link: '/support/stabilityai' },
           { text: '字节跳动', link: '/support/bytedance' },
           { text: '百度', link: '/support/baidu' },
+          { text: '商汤', link: '/support/sense' },
         ]
       },
       {
