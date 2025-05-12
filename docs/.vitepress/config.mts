@@ -36,6 +36,7 @@ export default defineConfig({
           { text: '字节跳动', link: '/support/bytedance' },
           { text: '百度', link: '/support/baidu' },
           { text: '商汤', link: '/support/sense' },
+          { text: 'MidJourney', link: '/support/midjourney' },
         ]
       },
       {
