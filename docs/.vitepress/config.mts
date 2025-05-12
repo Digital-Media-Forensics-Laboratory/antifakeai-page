@@ -37,6 +37,7 @@ export default defineConfig({
           { text: '百度', link: '/support/baidu' },
           { text: '商汤', link: '/support/sense' },
           { text: 'MidJourney', link: '/support/midjourney' },
+          { text: 'Runway', link: '/support/runway' },
         ]
       },
       {
