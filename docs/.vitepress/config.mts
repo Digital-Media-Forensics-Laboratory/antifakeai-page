@@ -35,10 +35,16 @@ export default defineConfig({
           { text: '总览', link: '/support/overview' },
           { text: 'Stability AI', link: '/support/stabilityai' },
           { text: '字节跳动', link: '/support/bytedance' },
+          { text: '腾讯', link: '/support/tencent' },
+          { text: '阿里巴巴', link: '/support/tongyi' },
           { text: '百度', link: '/support/baidu' },
           { text: '商汤', link: '/support/sense' },
+          { text: '即梦 AI', link: '/support/jimeng' },
           { text: 'MidJourney', link: '/support/midjourney' },
+          { text: 'Ideogram AI', link: '/support/ideogram' },
           { text: 'Runway', link: '/support/runway' },
+          { text: 'DeepAI', link: '/support/deepai' },
+          
         ]
       },
       {
