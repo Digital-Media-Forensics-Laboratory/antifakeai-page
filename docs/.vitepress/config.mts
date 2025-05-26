@@ -44,6 +44,12 @@ export default defineConfig({
           { text: 'Ideogram AI', link: '/support/ideogram' },
           { text: 'Runway', link: '/support/runway' },
           { text: 'DeepAI', link: '/support/deepai' },
+          { text: 'canva', link: '/support/canva' },
+          { text: '快手', link: '/support/kuaishou' },
+          { text: '美图', link: '/support/meitu' },
+          { text: '紫东太初', link: '/support/taichu' },
+          { text: '云界AI', link: '/support/yunjie' },
+          { text: '天工AI', link: '/support/tiangong' },
           
         ]
       },
