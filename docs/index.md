@@ -1,6 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+
 hero:
   name: "Anti-Fake AI"
   text: "高性能AIGC检测服务"
@@ -15,6 +16,7 @@ hero:
     - theme: alt
       text: API Reference
       link: /api-examples
+
 features:
   - icon: 🚀
     title: 极低时延
