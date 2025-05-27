@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/antifakeai-page/',
+  base: '/',
   title: "Anti-Fake AI Project",
   description: "这里是Anti-Fake后端系统的开发文档",
   ignoreDeadLinks: true,
