@@ -74,7 +74,7 @@ export default defineConfig({
       {
         text: '关于我们',
         items: [
-          { text: '团队贡献', link: '/about/team' },
+          { text: '团队介绍', link: '/about/team' },
           { text: '荣誉证书', link: '/about/about' },
         ]
       },
