@@ -85,6 +85,13 @@ export default defineConfig({
         ]
       },
       {
+        text: '水印技术',
+        collapsed: true,
+        items: [
+          { text: 'AIGC政策合规与水印检测能力', link: '/support/watermark/watermark' },
+        ]
+      },
+      {
         text: '大模型安全测评',
         collapsed: true,
         items: [
