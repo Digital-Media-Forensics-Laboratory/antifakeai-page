@@ -118,8 +118,8 @@ Pro 版本经过优化后检测时延将进一步降低，详情请参见：[产
 ## 💡 问题 10：如何试用或合作？
 
 欢迎通过以下方式联系我们：
-- **邮箱**：`antifakeai@yourdomain.com`
-- **官网**：[https://yourdomain.com](https://yourdomain.com)
+- **邮箱**：`zhuang.li@hdu.edu.cn`
+- **电话**：`17366636375`
 - **合作方式**：支持企业合作、OEM 定制及研究支持，请备注详细需求！
 
 ---

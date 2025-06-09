@@ -48,7 +48,7 @@ Antifake AI 产品已支持检测 **近 200 个 AIGC 图像生成模型**，覆�
 | 中科院紫东太初团队       | 紫东太初                    | ✅ 支持   |            |
 | 昆仑万维            | 天工 AI                   | ✅ 支持   |            |
 | Stability AI    | Stable Diffusion        | ✅ 支持   | 主流开源模型     |
-| MidJourney Inc. | MidJourney              | ⚠️ 弱支持 | 提示词引导结构复杂  |
+| MidJourney Inc. | MidJourney              | ✅ 支持 | 提示词引导结构复杂  |
 | Ideogram AI     | Ideogram                | ✅ 支持   | 适用于艺术文字图生成 |
 | Microsoft       | Copilot (Image Creator) | ✅ 支持   | 基于 DALL·E  |
 | Runway          | Runway Gen 系列           | ✅ 支持   | 支持图像与视频生成  |

@@ -22,82 +22,111 @@ export default defineConfig({
     sidebar: [
       {
         text: '简介',
+        collapsed: false,
         items: [
           { text: '产品介绍', link: '/quick_start/brief.md' },
-          // { text: '性能指标', link: '/quick_start/brief.md' },
-          { text: '快速开始', link: '/api-examples' },
-          // { text: '管理面板', link: '/api-examples' }
         ]
       },
       {
-        text: '支持软件',
+        text: '图像检测',
+        collapsed: false,
         items: [
-          { text: '总览', link: '/support/overview' },
-          { text: '字节跳动', link: '/support/bytedance' },
-          { text: '阿里巴巴', link: '/support/tongyi' },
-          { text: '科大讯飞', link: '/support/xunfei' },
-          { text: '智谱清言', link: '/support/zhipuqingyan' },
-          { text: '腾讯', link: '/support/tencent' },
-          { text: '百度', link: '/support/baidu' },
-          { text: '商汤', link: '/support/sense' },
-          { text: '快手', link: '/support/kuaishou' },
-          { text: '美图', link: '/support/meitu' },
-          { text: 'Stability AI', link: '/support/stabilityai' },
-          { text: 'MidJourney', link: '/support/midjourney' },
-          { text: 'Ideogram AI', link: '/support/ideogram' },
-          { text: 'Copilot', link: '/support/copilot' },
-          { text: 'Runway', link: '/support/runway' },
-          { text: 'DeepAI', link: '/support/deepai' },
-          { text: 'Canva', link: '/support/canva' },
-          { text: '紫东太初', link: '/support/taichu' },
-          { text: '云界 AI', link: '/support/yunjie' },
-          { text: '天工 AI', link: '/support/tiangong' },
-          { text: '即梦 AI', link: '/support/jimeng' },
-          
+          {
+            text: '支持软件',
+            collapsed: true,
+            items: [
+              { text: '总览', link: '/support/overview' },
+              { text: '字节跳动', link: '/support/bytedance' },
+              { text: '阿里巴巴', link: '/support/tongyi' },
+              { text: '科大讯飞', link: '/support/xunfei' },
+              { text: '智谱清言', link: '/support/zhipuqingyan' },
+              { text: '腾讯', link: '/support/tencent' },
+              { text: '百度', link: '/support/baidu' },
+              { text: '商汤', link: '/support/sense' },
+              { text: '快手', link: '/support/kuaishou' },
+              { text: '美图', link: '/support/meitu' },
+              { text: 'Stability AI', link: '/support/stabilityai' },
+              { text: 'MidJourney', link: '/support/midjourney' },
+              { text: 'Ideogram AI', link: '/support/ideogram' },
+              { text: 'Copilot', link: '/support/copilot' },
+              { text: 'Runway', link: '/support/runway' },
+              { text: 'DeepAI', link: '/support/deepai' },
+              { text: 'Canva', link: '/support/canva' },
+              { text: '紫东太初', link: '/support/taichu' },
+              { text: '云界 AI', link: '/support/yunjie' },
+              { text: '天工 AI', link: '/support/tiangong' },
+              { text: '即梦 AI', link: '/support/jimeng' }
+            ]
+          }
+        ]
+      },
+      // {
+      //   text: '音频检测',
+      //   collapsed: true,
+      //   items: [
+      //     // 预留位置
+      //   ]
+      // },
+      {
+        text: '视频检测',
+        collapsed: true,
+        items: [
+          { text: '总览', link: '/support/video/overview' },
+          { text: '百度(Steamer-I2V)', link: '/support/video/baidu' },
+          { text: '字节跳动(豆包)', link: '/support/video/bytedance' },
+          { text: '即梦 Dreamina', link: '/support/video/jimeng' },
+          { text: '快手(可灵 AI 视频)', link: '/support/video/kuaishou' },
+          { text: '美图(MiracleVision)', link: '/support/video/meitu' },
+          { text: 'Runway(Gen)', link: '/support/video/runway' },
+          { text: '腾讯(元宝/混元)', link: '/support/video/tencent' },
+          { text: '阿里巴巴(通义·视频)', link: '/support/video/tongyi' },
+          { text: 'OpenAI(Sora)', link: '/support/video/sora' },
+          { text: 'Vidu(U-ViT)', link: '/support/video/vidu' },
+        ]
+      },
+      {
+        text: '大模型安全测评',
+        collapsed: true,
+        items: [
+          // 预留位置
         ]
       },
       {
         text: '接口文档',
+        collapsed: false,
         items: [
-          { text: '检测接口', link: '/api_reference/detection.md' },
+          { text: '检测接口', link: '/api_reference/detection.md' }
         ]
       },
       {
         text: '系统架构',
+        collapsed: false,
         items: [
-          { text: '总体架构', link: '/api-examples' },
-          { text: '网关', link: '/api-examples' },
           { text: '文件服务', link: '/architecture/file_service' },
-          { text: '检测服务', link: '/api-examples' },
-        ]
-      },
-      {
-        text: '关于我们',
-        items: [
-          { text: '团队介绍', link: '/about/team' },
-          { text: '荣誉证书', link: '/about/about' },
         ]
       },
       {
         text: '开发指导',
+        collapsed: false,
         items: [
-          { text: '性能主题', link: '/development/performance' },
+          { text: '性能主题', link: '/development/performance' }
         ]
       },
       {
-        text: 'Examples',
+        text: '关于我们',
+        collapsed: false,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '团队介绍', link: '/about/team' },
+          { text: '荣誉证书', link: '/about/about' }
         ]
       },
       {
         text: '常见问题',
+        collapsed: false,
         items: [
           { text: 'FAQ', link: '/faq/faq' }
         ]
       }
-
     ],
 
     socialLinks: [

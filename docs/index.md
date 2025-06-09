@@ -8,13 +8,10 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /markdown-examples
-    - theme: alt
-      text: 产品对比
-      link: /api-examples
+      link: ./quick_start/brief.md
     - theme: alt
       text: API Reference
-      link: /api-examples
+      link: ./api_reference/detection.md
 
 features:
   - icon: 🚀
