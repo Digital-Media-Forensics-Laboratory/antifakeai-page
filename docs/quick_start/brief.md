@@ -76,6 +76,170 @@ title: 产品介绍
 
 ---
 
+<<<<<<< Updated upstream
+=======
+## 🧪 实验室与平台
+
+<div style="display: flex; justify-content: center; gap: 4rem; flex-wrap: wrap; margin-top: 3rem; margin-bottom: 4rem;">
+  <div style="width: 300px; background: #f8f8f8; border: 1px solid #eee; padding: 1.2rem; text-align: center; border-radius: 10px; display: flex; flex-direction: column; align-items: center;">
+    <img src="./antifakeai.png" alt="我们的实验室" style="width: 100%; height: 180px; object-fit: contain; margin-bottom: 1rem;" />
+    <div style="height: 3.6rem; display: flex; align-items: center; justify-content: center; margin-bottom: 0.75rem;">
+      <h3 style="font-size: 1.1rem; line-height: 1.3rem; margin: 0;">浙江-法国数字媒体取证国际联合实验室</h3>
+    </div>
+    <p style="font-size: 0.95rem; color: #555;">成立于2023年，专注于AIGC伪造检测技术的研发与应用。</p>
+  </div>
+
+  <div style="width: 300px; background: #f8f8f8; border: 1px solid #eee; padding: 1.2rem; text-align: center; border-radius: 10px; display: flex; flex-direction: column; align-items: center;">
+    <img src="./深度伪造联合实验室.png" alt="杭州公安联合实验室" style="width: 100%; height: 180px; object-fit: contain; margin-bottom: 1rem;" />
+    <div style="height: 3.6rem; display: flex; align-items: center; justify-content: center; margin-bottom: 0.75rem;">
+      <h3 style="font-size: 1.1rem; line-height: 1.3rem; margin: 0;">深度伪造检测实验室</h3>
+    </div>
+    <p style="font-size: 0.95rem; color: #555;">2025年与杭州市公安局刑事科学技术研究所联合成立，聚焦前沿伪造内容识别与司法取证技术。</p>
+  </div>
+</div>
+
+
+
+
+
+---
+## 🤝 合作伙伴
+
+<div style="display: flex; justify-content: center; gap: 4rem; flex-wrap: wrap; margin-top: 2rem; margin-bottom: 2.5rem;">
+  <div style="width: 300px; background: #f8f8f8; border: 1px solid #eee; padding: 1.2rem; text-align: center; border-radius: 10px; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 100%; height: 150px; display: flex; justify-content: center; align-items: center; margin-bottom: 0.6rem;">
+      <img src="./杭州公安.png" alt="partner1" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
+    </div>
+    <p><strong>杭州市公安局</strong></p>
+  </div>
+
+  <div style="width: 300px; background: #f8f8f8; border: 1px solid #eee; padding: 1.2rem; text-align: center; border-radius: 10px; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 100%; height: 150px; display: flex; justify-content: center; align-items: center; margin-bottom: 0.6rem;">
+      <img src="./绍兴公安.png" alt="partner2" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
+    </div>
+    <p><strong>绍兴市公安局</strong></p>
+  </div>
+</div>
+
+
+
+
+
+---
+
+## 🏅 荣誉与奖项
+
+<style>
+  .award-gallery {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+  }
+
+  .award-card {
+    width: 300px;
+    background: #f8f8f8;
+    border: 1px solid #eee;
+    padding: 1.2rem;
+    text-align: center;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .award-card .image-wrapper {
+    width: 100%;
+    height: 180px;
+    margin-bottom: 1rem;
+    overflow: hidden;
+  }
+
+  .award-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  .award-card p {
+    font-size: 0.95rem;
+    color: #555;
+    margin: 0;
+  }
+</style>
+
+<div class="award-gallery">
+  <div class="award-card">
+    <div class="image-wrapper">
+      <img src="./zongjuesaitedengjiang.jpg" alt="奖项1" />
+    </div>
+    <p><strong>2024年 全国人工智能应用场景创新挑战赛 全国总决赛特等奖</strong></p>
+  </div>
+
+  <div class="award-card">
+    <div class="image-wrapper">
+      <img src="./wanganzhuangxiang.jpg" alt="奖项2" />
+    </div>
+    <p><strong>2024年 全国人工智能应用场景创新挑战赛 智能网专项赛特等奖</strong></p>
+  </div>
+
+  <div class="award-card">
+    <div class="image-wrapper">
+      <img src="./jiebangguashuai.jpg" alt="奖项3" />
+    </div>
+    <p><strong>2024年 第十三届中国创新创业大赛创新挑战赛（浙江）暨2024年浙江省技术需求“揭榜挂帅”大赛一等奖</strong></p>
+  </div>
+
+  <div class="award-card">
+    <div class="image-wrapper">
+      <img src="./pangu1.png" alt="奖项4" />
+    </div>
+    <p><strong>2023年 首届“盘古石杯”全国电子数据取证大赛创新作品赛 优胜奖</strong></p>
+  </div>
+
+  <div class="award-card">
+    <div class="image-wrapper">
+      <img src="./pangu2.png" alt="奖项5" />
+    </div>
+    <p><strong>2023年 首届“盘古石杯”全国电子数据取证大赛创新作品赛 优胜奖</strong></p>
+  </div>
+  <div class="award-card">
+    <div class="image-wrapper">
+      <img src="./zhuanli1.png" alt="奖项6" />
+    </div>
+    <p><strong>发明专利证书 一种基于视觉语言模型的生成式图像无监督检测方法</strong></p>
+  </div>
+
+  <div class="award-card">
+    <div class="image-wrapper">
+      <img src="./zhuanli2.png" alt="奖项7" />
+    </div>
+    <p><strong>发明专利证书 一种基于视觉语言模型的生成式图像无监督检测方法奖</strong></p>
+  </div>
+
+  <div class="award-card">
+    <div class="image-wrapper">
+      <img src="./zhuanli3.png" alt="奖项8" />
+    </div>
+    <p><strong>发明专利证书 一种基于加权系数残差的JPEG图像负载定位方法</strong></p>
+  </div>
+
+  <div class="award-card">
+    <div class="image-wrapper">
+      <img src="./henan.jpg" alt="奖项9" />
+    </div>
+    <p><strong>2023年 河南省自然科学奖</strong></p>
+  </div>
+
+</div>
+
+
+
+
+>>>>>>> Stashed changes
 ## 📬 联系我们
 
 若您希望申请试用、获取技术资料或业务合作，请联系：
