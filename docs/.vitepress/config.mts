@@ -46,16 +46,17 @@ export default defineConfig({
               { text: '商汤', link: '/support/sense' },
               { text: '快手', link: '/support/kuaishou' },
               { text: '美图', link: '/support/meitu' },
+              { text: '紫东太初', link: '/support/taichu' },
+              { text: '云界 AI', link: '/support/yunjie' },
+              { text: '天工 AI', link: '/support/tiangong' },
+              { text: '即梦 AI', link: '/support/jimeng' },
               { text: 'MidJourney', link: '/support/midjourney' },
               { text: 'Ideogram AI', link: '/support/ideogram' },
               { text: 'Copilot', link: '/support/copilot' },
               { text: 'Runway', link: '/support/runway' },
               { text: 'DeepAI', link: '/support/deepai' },
               { text: 'Canva', link: '/support/canva' },
-              { text: '紫东太初', link: '/support/taichu' },
-              { text: '云界 AI', link: '/support/yunjie' },
-              { text: '天工 AI', link: '/support/tiangong' },
-              { text: '即梦 AI', link: '/support/jimeng' }
+
             ]
           }
         ]
@@ -71,7 +72,7 @@ export default defineConfig({
         text: '视频检测',
         collapsed: true,
         items: [
-          { text: '总览', link: '/support/overview' },
+          { text: '总览', link: '/support/video/overview' },
           {
             text: '支持软件',
             collapsed: true,
@@ -81,11 +82,15 @@ export default defineConfig({
               { text: '即梦 Dreamina', link: '/support/video/jimeng' },
               { text: '快手(可灵 AI 视频)', link: '/support/video/kuaishou' },
               { text: '美图(MiracleVision)', link: '/support/video/meitu' },
-              { text: 'Runway(Gen)', link: '/support/video/runway' },
               { text: '腾讯(元宝/混元)', link: '/support/video/tencent' },
               { text: '阿里巴巴(通义·视频)', link: '/support/video/tongyi' },
+              { text: '生树科技(Vidu)', link: '/support/video/vidu' },
               { text: 'OpenAI(Sora)', link: '/support/video/sora' },
-              { text: 'Vidu(U-ViT)', link: '/support/video/vidu' },
+              { text: 'Meta(MovieGen)', link: '/support/video/meta' },
+              { text: 'Google(Imagen)', link: '/support/video/imagen3' },
+              { text: 'Pika Labs(Pika)', link: '/support/video/pika' },
+              { text: 'LumaAI(Dream machine)', link: '/support/video/lumaai' },
+              { text: 'Runway(Gen)', link: '/support/video/runway' },
               { text: 'DeepfaceLab', link: '/support/video/deepfacelab'},
               { text: 'DeepLiveCam', link: '/support/video/deepLivecam'},
               { text: 'FaceShifter', link: '/support/video/faceshifter'},
@@ -98,10 +103,18 @@ export default defineConfig({
         text: '音频检测',
         collapsed: true,
         items: [
-          { text: 'Google(AudioLM,USM)', link: '/support/audio/google' },
-          { text: 'Microsoft(Valle)', link: '/support/audio/microsoft' },
-          { text: 'Meta(VoiceBox)', link: '/support/audio/meta' },
-          { text: 'SpeechGPT', link: '/support/audio/speechgpt' },
+          { text: '总览', link: '/support/audio/overview' },
+          {
+            text: '支持软件',
+            collapsed: true,
+            items: [
+              { text: '阿里巴巴(CosyVoice2)', link: '/support/audio/cosyvoice' },
+              { text: '复旦大学(SpeechGPT)', link: '/support/audio/speechgpt' },
+              { text: 'Google(AudioLM,USM)', link: '/support/audio/google' },
+              { text: 'Microsoft(Vall-E)', link: '/support/audio/microsoft' },
+              { text: 'Meta(VoiceBox)', link: '/support/audio/meta' },
+            ]
+          }
         ]
       },
       {
@@ -129,7 +142,7 @@ export default defineConfig({
         text: '大模型安全测评',
         collapsed: true,
         items: [
-          // 预留位置
+          { text: '大模型安全测评', link: '/support/LLM/llm' },
 
         ]
       },
