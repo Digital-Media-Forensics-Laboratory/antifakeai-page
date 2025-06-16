@@ -88,6 +88,11 @@ title: 产品介绍
 
 ---
 
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+=======
+>>>>>>> yym
 ## 🧪 实验室与平台
 
 <div style="display: flex; justify-content: center; gap: 4rem; flex-wrap: wrap; margin-top: 3rem; margin-bottom: 4rem;">
@@ -216,11 +221,46 @@ title: 产品介绍
     </div>
     <p><strong>2023年 首届“盘古石杯”全国电子数据取证大赛创新作品赛 优胜奖</strong></p>
   </div>
+<<<<<<< HEAD
+=======
+  <div class="award-card">
+    <div class="image-wrapper">
+      <img src="./zhuanli1.png" alt="奖项6" />
+    </div>
+    <p><strong>发明专利证书 一种基于视觉语言模型的生成式图像无监督检测方法</strong></p>
+  </div>
+
+  <div class="award-card">
+    <div class="image-wrapper">
+      <img src="./zhuanli2.png" alt="奖项7" />
+    </div>
+    <p><strong>发明专利证书 一种基于视觉语言模型的生成式图像无监督检测方法奖</strong></p>
+  </div>
+
+  <div class="award-card">
+    <div class="image-wrapper">
+      <img src="./zhuanli3.png" alt="奖项8" />
+    </div>
+    <p><strong>发明专利证书 一种基于加权系数残差的JPEG图像负载定位方法</strong></p>
+  </div>
+
+  <div class="award-card">
+    <div class="image-wrapper">
+      <img src="./henan.jpg" alt="奖项9" />
+    </div>
+    <p><strong>2023年 河南省自然科学奖</strong></p>
+  </div>
+
+>>>>>>> yym
 </div>
 
 
 
 
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+>>>>>>> yym
 ## 📬 联系我们
 
 若您希望申请试用、获取技术资料或业务合作，请联系：
