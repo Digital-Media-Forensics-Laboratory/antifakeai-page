@@ -31,35 +31,12 @@ export default defineConfig({
         text: '图像检测',
         collapsed: false,
         items: [
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
           { text: '总览', link: '/support/overview' },
-          { text: 'Stability AI', link: '/support/stabilityai' },
-          { text: '字节跳动', link: '/support/bytedance' },
-          { text: '腾讯', link: '/support/tencent' },
-          { text: '阿里巴巴', link: '/support/tongyi' },
-          { text: '百度', link: '/support/baidu' },
-          { text: '商汤', link: '/support/sense' },
-          { text: '即梦 AI', link: '/support/jimeng' },
-          { text: 'MidJourney', link: '/support/midjourney' },
-          { text: 'Ideogram AI', link: '/support/ideogram' },
-          { text: 'Runway', link: '/support/runway' },
-          { text: 'DeepAI', link: '/support/deepai' },
-          { text: 'canva', link: '/support/canva' },
-          { text: '快手', link: '/support/kuaishou' },
-          { text: '美图', link: '/support/meitu' },
-          { text: '紫东太初', link: '/support/taichu' },
-          { text: '云界AI', link: '/support/yunjie' },
-          { text: '天工AI', link: '/support/tiangong' },
-          
-=======
->>>>>>> yym
+
           {
             text: '支持软件',
             collapsed: true,
             items: [
-              { text: '总览', link: '/support/overview' },
               { text: '字节跳动', link: '/support/bytedance' },
               { text: '阿里巴巴', link: '/support/tongyi' },
               { text: '科大讯飞', link: '/support/xunfei' },
@@ -106,8 +83,6 @@ export default defineConfig({
           { text: '阿里巴巴(通义·视频)', link: '/support/video/tongyi' },
           { text: 'OpenAI(Sora)', link: '/support/video/sora' },
           { text: 'Vidu(U-ViT)', link: '/support/video/vidu' },
-<<<<<<< HEAD
-=======
           { text: 'DeepfaceLab', link: '/support/video/deepfacelab'},
           { text: 'DeepLiveCam', link: '/support/video/deepLivecam'},
           { text: 'FaceShifter', link: '/support/video/faceshifter'},
@@ -136,8 +111,6 @@ export default defineConfig({
           { text: 'OpenAI(GPT)', link: '/support/text/openai' },
           { text: 'Google(Gemini)', link: '/support/text/google' },
           { text: 'Meta(LLaMA)', link: '/support/text/meta' },
-
->>>>>>> yym
         ]
       },
       {
@@ -152,10 +125,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           // 预留位置
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
->>>>>>> yym
+
         ]
       },
       {
