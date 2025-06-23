@@ -18,11 +18,20 @@ Anti-Fake AI 产品已实现对多种主流 **AIGC 文本生成工具** 所产�
 | 百度           | 文心一言    | ✅ 支持       |                |
 | 字节跳动       | 豆包AI      | ✅ 支持       |              |
 | 深度求索       | DeepSeek     | ✅ 支持       |             |
+| 华为           | 盘古大模型                           | ✅ 支持       |          |
+| 科大讯飞       | 星火大模型                    | ✅ 支持       |          |
+|清华大学、智谱AI  | CogAgent (CogAgent‑18B, CogAgent‑9B)  | ✅ 支持       |  |
+| 商汤      | InternVL 2.0、InternVL 3.0、Mini-InternVL                                | ✅ 支持       | |
+| 月之暗面         | Kimi大模型             | ✅ 支持       |        |
+| 百川智能    | Baichuan 2 (7B, 13B)、Baichuan Chat           | ✅ 支持       |          |
 | OpenAI         | GPT-3、GPT-4             | ✅ 支持       |        |
 | Anthropic      | Claude                  | ✅ 支持       |          |
-| Google         | Bard、PaLM 系列          | ✅ 支持       |               |
+| Google         | Gemini系列          | ✅ 支持       |               |
 | Meta           | LLaMA 系列、Meta AI      | ✅ 支持       |                      |
-
+| xAI               | Grok (Grok‑1 / 1.5 / 2 / 2 mini / 3 / 3 mini) | ✅ 支持 | |
+| Microsoft    | LLaVA (1.0 / 1.5 / 1.6 “NeXT”)         | ✅ 支持       | |
+| Nvidia         | Megatron-Turing NLG (530B)、BioMegatron       | ✅ 支持       |          |
+| Mistral AI     | Mistral 7B、Mixtral                            | ✅ 支持       |          |
 
 ---
 

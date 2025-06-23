@@ -56,7 +56,14 @@ export default defineConfig({
               { text: 'Runway', link: '/support/runway' },
               { text: 'DeepAI', link: '/support/deepai' },
               { text: 'Canva', link: '/support/canva' },
-
+              { text: 'Stable Diffusion', link: '/support/stableAI' },
+              { text: 'PixArt', link: '/support/pixart' },
+              { text: 'Kolors', link: '/support/kolors' },
+              { text: 'Kandinsky', link: '/support/Kandinsky' },
+              { text: 'Janus', link: '/support/janus' },
+              { text: 'PlaygroundAI', link: '/support/playgroundAI' },
+              { text: 'LaVi-Bridge', link: '/support/LaVi-Bridge' },
+              { text: 'flux', link: '/support/flux' }
             ]
           }
         ]
@@ -117,20 +124,30 @@ export default defineConfig({
           }
         ]
       },
-      {
-        text: '文本检测',
-        collapsed: true,
-        items: [
-          { text: '阿里巴巴(Qwen)', link: '/support/text/ali' },
-          { text: '百度(文心一言)', link: '/support/text/baidu' },
-          { text: '字节跳动（豆包）', link: '/support/text/bytedance' },
-          { text: 'Anthropic(Claude)', link: '/support/text/claude' },
-          { text: 'Deepseek', link: '/support/text/deepseek' },
-          { text: 'OpenAI(GPT)', link: '/support/text/openai' },
-          { text: 'Google(Gemini)', link: '/support/text/google' },
-          { text: 'Meta(LLaMA)', link: '/support/text/meta' },
-        ]
-      },
+        {
+          text: '文本检测',
+          collapsed: true,
+          items: [
+            { text: '阿里巴巴(Qwen)', link: '/support/text/ali' },
+            { text: '百度(文心一言)', link: '/support/text/baidu' },
+            { text: '字节跳动（豆包）', link: '/support/text/bytedance' },
+            { text: '深度求索(DeepSeek)', link: '/support/text/deepseek' },
+            { text: '华为(盘古大模型)', link: '/support/text/huawei' },
+            { text: '科大讯飞(星火)', link: '/support/text/iflytek' },
+            { text: '清华&智谱(CogAgent)', link: '/support/text/CogAgent' },
+            { text: '商汤(InternVL)', link: '/support/text/Intern' },
+            { text: '月之暗面(Kimi)', link: '/support/text/kimi' },
+            { text: '百川智能(Baichuan)', link: '/support/text/baichuan' },
+            { text: 'OpenAI(GPT)', link: '/support/text/openai' },
+            { text: 'Anthropic(Claude)', link: '/support/text/claude' },
+            { text: 'Google(Gemini)', link: '/support/text/google' },
+            { text: 'Meta(LLaMA)', link: '/support/text/meta' },
+            { text: 'xAI(Grok)', link: '/support/text/Grok' },
+            { text: 'Microsoft(LLaVA)', link: '/support/text/LLaVA' },
+            { text: 'Nvidia(Megatron)', link: '/support/text/nvidia' },
+            { text: 'Mistral AI', link: '/support/text/mistral' }
+          ]
+        },
       {
         text: '水印技术',
         collapsed: true,
