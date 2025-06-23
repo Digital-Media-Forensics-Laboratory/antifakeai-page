@@ -120,6 +120,11 @@ export default defineConfig({
               { text: 'Google(AudioLM,USM)', link: '/support/audio/google' },
               { text: 'Microsoft(Vall-E)', link: '/support/audio/microsoft' },
               { text: 'Meta(VoiceBox)', link: '/support/audio/meta' },
+              { text: '高丽大学(Style)', link: '/support/audio/styletts' },
+              { text: '高丽大学(Parler)', link: '/support/audio/parler' },
+              { text: 'hexgrad(Kokoro)', link: '/support/audio/kokoro' },
+              { text: '高丽大学(HierSpeech)', link: '/support/audio/hierspeech' },
+              { text: 'ElevenLabs', link: '/support/audio/elevenlabs' },
             ]
           }
         ]
