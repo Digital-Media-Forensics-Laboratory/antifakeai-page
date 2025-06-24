@@ -116,15 +116,24 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: '阿里巴巴(CosyVoice2)', link: '/support/audio/cosyvoice' },
+              { text: '科大讯飞(Spark TTS)', link: '/support/audio/xfyun' },
+              { text: '百度(语音合成平台)', link: '/support/audio/baidu' },
+              { text: '腾讯云(TTS)', link: '/support/audio/tencent' },
+              { text: '华为云(EI语音服务)', link: '/support/audio/huawei' },
+              { text: '字节跳动(Seed-TTS, MegaTTS3, 火山引擎)', link: '/support/audio/bytedance' },
               { text: '复旦大学(SpeechGPT)', link: '/support/audio/speechgpt' },
               { text: 'Google(AudioLM,USM)', link: '/support/audio/google' },
               { text: 'Microsoft(Vall-E)', link: '/support/audio/microsoft' },
               { text: 'Meta(VoiceBox)', link: '/support/audio/meta' },
-              { text: '高丽大学(Style)', link: '/support/audio/styletts' },
-              { text: '高丽大学(Parler)', link: '/support/audio/parler' },
+              { text: 'OpenAI (TTS-1, GPT-4o Mini-TTS)', link: '/support/audio/openai' },
+              { text: 'HuggingFace(Parler)', link: '/support/audio/parler' },
               { text: 'hexgrad(Kokoro)', link: '/support/audio/kokoro' },
-              { text: '高丽大学(HierSpeech)', link: '/support/audio/hierspeech' },
               { text: 'ElevenLabs', link: '/support/audio/elevenlabs' },
+              { text: 'Resemble AI', link: '/support/audio/resembleai' },
+              { text: 'LOVO AI', link: '/support/audio/lovoai' },
+              { text: 'Korea University(HierSpeech)', link: '/support/audio/hierspeech' },
+              { text: 'Columbia University(Style)', link: '/support/audio/styletts' },
+              
             ]
           }
         ]
