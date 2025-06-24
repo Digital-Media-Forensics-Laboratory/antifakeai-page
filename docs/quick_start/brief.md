@@ -256,7 +256,7 @@ title: 产品介绍
     <div class="image-wrapper">
       <img src="./zhuanli2.png" alt="奖项7" />
     </div>
-    <p><strong>发明专利证书 一种基于视觉语言模型的生成式图像无监督检测方法奖</strong></p>
+    <p><strong>发明专利证书 一种对抗式生成网络版权保护方法</strong></p>
   </div>
 
   <div class="award-card">
@@ -264,6 +264,20 @@ title: 产品介绍
       <img src="./zhuanli3.png" alt="奖项8" />
     </div>
     <p><strong>发明专利证书 一种基于加权系数残差的JPEG图像负载定位方法</strong></p>
+  </div>
+
+  <div class="award-card">
+    <div class="image-wrapper">
+      <img src="./zhuanli4.png" alt="奖项8" />
+    </div>
+    <p><strong>发明专利证书 一种基于设备指纹的深度伪造视频检测方法</strong></p>
+  </div>
+
+  <div class="award-card">
+    <div class="image-wrapper">
+      <img src="./zhuanli5.png" alt="奖项8" />
+    </div>
+    <p><strong>发明专利证书 一种多专家模型联合决策的人工智能伪造内容检测方法</strong></p>
   </div>
 
   <div class="award-card">
